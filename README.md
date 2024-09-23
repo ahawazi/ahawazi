@@ -3,6 +3,9 @@
 - 🌱 I’m currently learning anything about programing.
 - 📫 email : amirhossinawazi91@gmail.com
 - 😄 linkedin : www.linkedin.com/in/amirhossein-awazi-38226b28a
+- <a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=ahawazi&label=Profile%20Views&pretty=false" />
+</a>
 
 <!---
 ahawazi/ahawazi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
