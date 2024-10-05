@@ -7,13 +7,6 @@
   <img src="https://visitcount.itsvg.in/api?id=ahawazi&label=Profile%20Views&pretty=false" />
 </a>
 
-<a href=&quothttps://github.com/ghost1372&quot>
-<img align=&quotcenter&quot src=&quothttps://github-readme-stats.vercel.app/api?id=ahawazi /></a>
-
-<a href=&quothttps://github.com/ghost1372&quot>
-<img align=&quotcenter&quot src=&quothttps://github-readme-stats.vercel.app/api/top-langs/?id=ahawazi&theme=dracula/>
-</a>
-
 <!---
 ahawazi/ahawazi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
