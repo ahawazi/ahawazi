@@ -7,10 +7,6 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-![Ah Awazi Github Stats](https://github-readme-stats.vercel.app/api?username=ahawazi&theme=default&hide_border=false&include_all_commits=false&count_private=true)<br/>
-
-![Ah Awazi Used Programming Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahawazi&theme=default&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-
 - 🌱 I’m currently learning **Laravel**
 
 - 👯 I’m looking to collaborate on **Laravel**
