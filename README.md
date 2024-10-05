@@ -8,10 +8,10 @@
 </a>
 
 <a href=&quothttps://github.com/ghost1372&quot>
-<img align=&quotcenter&quot src=&quothttps://github-readme-stats.vercel.app/api?username=ahawazi /></a>
+<img align=&quotcenter&quot src=&quothttps://github-readme-stats.vercel.app/api?id=ahawazi /></a>
 
 <a href=&quothttps://github.com/ghost1372&quot>
-<img align=&quotcenter&quot src=&quothttps://github-readme-stats.vercel.app/api/top-langs/?username=ahawazi &theme=dracula/>
+<img align=&quotcenter&quot src=&quothttps://github-readme-stats.vercel.app/api/top-langs/?id=ahawazi&theme=dracula/>
 </a>
 
 <!---
