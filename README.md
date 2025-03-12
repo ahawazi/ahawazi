@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm AmirHosseinAwazi</h1>
-<h3 align="center">A passionate backend developer.</h3>
-
-![Ah Awazi Used Programming Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahawazi&theme=default&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+<h3 align="center">A passionate developer.</h3>
 
 - 🌱 I’m currently learning **Laravel**
 
